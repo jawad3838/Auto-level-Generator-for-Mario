@@ -2,7 +2,7 @@ from PIL import Image,ImageDraw
 import sys
 import os
 
-folder_path = "../Original/"
+folder_path = "../Original_Levels/"
 save_folder_path = "../Edited/"
 
 level_name = sys.argv[1]
